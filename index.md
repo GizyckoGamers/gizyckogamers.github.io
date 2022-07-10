@@ -1,4 +1,4 @@
-# Welcome to GitHub Pages
+# GiżyckoGamers
 
 GiżyckoGamers is a team of firey gamers who meet up at Giżycko City to change the world of gaming forever.
 
