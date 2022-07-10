@@ -4,7 +4,7 @@ GiżyckoGamers is a team of firey gamers who meet up at Giżycko City to change 
 
 ## 201A
 
-One of your hottest titles is "201A" - game about all adventures you can be a part of in Giżycko City! Go check it out: https://gizyckogamers.github.io/201A/
+One of your hottest titles is "201A" - game about all adventures you can be a part of in Giżycko City! Go check it out: [https://gizyckogamers.github.io/201A/](https://gizyckogamers.github.io/201A/)
 
 ### Technicalities
 
